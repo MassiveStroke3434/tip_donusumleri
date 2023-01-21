@@ -1,2 +1,2 @@
 # Description
-- This project created directions on yazilimakademisi
+- This project created directions on yazilimakademisi.

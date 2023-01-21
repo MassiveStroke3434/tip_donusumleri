@@ -40,7 +40,7 @@ class Program
         Console.WriteLine("zz:"+zz);
 
         //System Convert
-        Console.WriteLine("****System Convert******");
+        Console.WriteLine("**** System Convert ******");
         string s1="10", s2="20";
         int sayi1,sayi2;
         int Toplam;
